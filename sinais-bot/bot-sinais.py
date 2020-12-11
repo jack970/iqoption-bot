@@ -6,7 +6,7 @@ from dateutil import tz
 import os, configparser, sys
 
 def RelativePath():
-	return 'c:/Users/Ítalo/Desktop/robo-iqoption/sinais-bot/'
+	return os.getenv('RELATIVEPATH')
 
 def Martingale(valor):
 	lucro_esperado = float(valor) * 1.5 # gale para recuperacao = 1.5 , gale para cobertura = 2.3
