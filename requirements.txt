@@ -1,0 +1,4 @@
+dateutil
+colorama
+dotenv
+iqoptionapi

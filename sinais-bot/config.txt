@@ -1,0 +1,6 @@
+[GERAL]
+stop_win = 30
+stop_loss = 15
+martingale = S
+sorosgale = N
+niveis = 1

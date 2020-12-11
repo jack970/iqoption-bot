@@ -1,0 +1,4 @@
+H1;eurusd;02:29:00;CALL
+M1;eurusd;23:19:00;CALL
+M5;eurusd;23:21:00;CALL
+M15;eurusd;23:30:00;CALL
